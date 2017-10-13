@@ -1,0 +1,17 @@
+http://www.geeksforgeeks.org
+http://quiz.geeksforgeeks.org 
+http://qa.geeksforgeeks.org 
+http://practice.geeksforgeeks.org 
+http://code.geeksforgeeks.org
+http://www.contribute.geeksforgeeks.org
+http://quiz.geeksforgeeks.org
+http://practice.geeksforgeeks.org
+http://code.geeksforgeeks.org 
+http://quiz.geeksforgeeks.org 
+http://qa.geeksforgeeks.org 
+http://practice.geeksforgeeks.org
+http://www.yahoo.com
+http://www.com
+http://www..com
+ftp://ftp.google.com
+file://www.yahoo.com

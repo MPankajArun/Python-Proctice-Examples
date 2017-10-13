@@ -1,0 +1,12 @@
+123@456.com
+manoj_faria@email.com
+manoj.faria@email.com
+manoj@email.com
+m1@mail.com
+m2@test123.edu
+m3@fm.co
+a.b.c
+abc@d
+abc.com
+@abc
+@abc.com
